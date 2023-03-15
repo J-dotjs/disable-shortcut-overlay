@@ -7,4 +7,4 @@ Removes the eye sore of the little blue arrow on shortcuts on Windows.
 # Undo
 Run the [Undo](https://github.com/J-dotjs/disable-shortcut-overlay/blob/main/undo.bat) file at any point.
 
-Feel free to delete the folder when you're done, you wont need it until you end up wanting to undo it.
+#### Feel free to delete the folder when you're done, you wont need it until you end up wanting to undo it.
