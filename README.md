@@ -1,4 +1,5 @@
 # disable-shortcut-overlay
+# What it does
 Removes the eye sore of the little blue arrow on shortcuts on Windows.
 
 #### Feel free to delete the folder when you're done, you wont need it until you end up wanting to undo it.
